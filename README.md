@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá, me chamo Fabiana Ignácio. Seja muito bem-vindo ao meu GitHub!!  👋
+____________________________________________________________________________
 
-<!--
-**Ignacio-fabianamaria/Ignacio-fabianamaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente sou Estudante Desenvolvimento Web | Trybe 
+- 😊 Pronomes: Ela/Dela
+- 📫 contate-me no e-mail : faby.tbe@gmail.com 
+____________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/ignacio-fabianamaria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ignacio-fabianamaria&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio-fabianamaria&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+_______________________________________________________________________________________________________________
+<div style="display: inline_block"><br>
+  <img align="center" alt="Faby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Faby-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Faby-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Faby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Faby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+
+
+
+
