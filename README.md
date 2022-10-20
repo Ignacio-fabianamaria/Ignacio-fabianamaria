@@ -1,6 +1,6 @@
 ### Olá, me chamo Fabiana Ignácio. Seja muito bem-vindo ao meu GitHub!!  👋
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/7df2b1066765ece36f94df3354039eae.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br />
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c88b8dc6b9d002e35fc0a9561109d809.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br />
 
 ##
 
