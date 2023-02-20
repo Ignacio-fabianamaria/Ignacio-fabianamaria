@@ -4,7 +4,8 @@
 
 ##
 
-- 🌱 Atualmente sou Estudante Desenvolvimento Web | Trybe 
+- 🌱 Atualmente em transição de carreira para área de tecnologia.
+- 📚 Estudante de Desenvolvimento Web Full Stack na Trybe, cursando o terceiro módulo do curso, o módulo de Back-end
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com 
 
@@ -24,6 +25,10 @@
    <img align="center" alt="Faby-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Faby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Faby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Faby-docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="Faby-Mysql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Faby-nodejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Faby-typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
 </div>
 
 ##
