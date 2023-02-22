@@ -1,4 +1,4 @@
-### Olá, me chamo Fabiana Ignácio. Seja muito bem-vindo ao meu GitHub!!  👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Fabiana+Ignácio.;Seja+muito+bem-vindo+ao+meu+GitHub!!!+❤️)](https://git.io/typing-svg)
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c88b8dc6b9d002e35fc0a9561109d809.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br />
 
@@ -30,6 +30,10 @@
   <img align="center" alt="Faby-nodejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Faby-typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
 </div>
+  
+  ##
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ignacio-fabianamaria&bg_color=103142&color=ea83ec&line=a04b90&point=3bb0bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
