@@ -14,21 +14,21 @@
 <div align="center">
   <a href="https://github.com/Ignacio-fabianamaria">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ignacio-fabianamaria&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-fabianamaria&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-fabianamaria&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Faby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Faby-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Faby-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Faby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Faby-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Faby-docker" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-  <img align="center" alt="Faby-Mysql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-  <img align="center" alt="Faby-nodejs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Faby-typescript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Faby-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Faby-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Faby-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Faby-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Faby-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Faby-docker" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="Faby-Mysql" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Faby-nodejs" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Faby-typescript" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
 </div>
   
   ##
