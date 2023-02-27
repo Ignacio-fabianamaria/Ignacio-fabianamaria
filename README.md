@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Fabiana+Ignácio.;Seja+muito+bem-vindo+ao+meu+GitHub!!!+❤️)](https://git.io/typing-svg)
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c88b8dc6b9d002e35fc0a9561109d809.gif" align="right" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br />
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c88b8dc6b9d002e35fc0a9561109d809.gif" align="right" width="250" height="250" border="0" alt="https://picasion.com/" /></a><br />
 
 ##
 
 - 🌱 Atualmente em transição de carreira para área de tecnologia.
-- 📚 Estudante de Desenvolvimento Web Full Stack na Trybe, cursando o terceiro módulo do curso, o módulo de Back-end
+- 📚 Estudante de Desenvolvimento Web Full Stack na Trybe,
+cursando o terceiro módulo do curso, o módulo de Back-end
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com 
 
