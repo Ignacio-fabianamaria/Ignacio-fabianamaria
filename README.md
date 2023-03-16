@@ -14,8 +14,8 @@ cursando o terceiro módulo do curso, o módulo de Back-end
 
 <div align="center">
   <a href="https://github.com/Ignacio-fabianamaria">
-  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ignacio-fabianamaria&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio-fabianamaria&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ignacio-fabianamaria&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-fabianamaria&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ##
@@ -40,7 +40,7 @@ cursando o terceiro módulo do curso, o módulo de Back-end
 
 
 
-![Snake animation](https://github.com/Ignacio-fabianamaria/ignacio-fabianamaria/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ignacio-fabianamaria/Ignacio-fabianamaria/blob/output/github-contribution-grid-snake.svg)
 
 
 
