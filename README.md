@@ -12,7 +12,11 @@ cursando o terceiro módulo do curso, o módulo de Back-end
 
 ##
 
-
+<div align="center">
+  <a href="https://github.com/ignacio-fabianamaria">
+  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ignacio-fabianamaria&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacio-fabianamaria&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
 ##
 
