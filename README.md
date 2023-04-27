@@ -5,8 +5,9 @@
 ##
 
 - 🌱 Atualmente em transição de carreira para área de tecnologia.
-- 📚 Estudante de Desenvolvimento Web Full Stack na Trybe,
-cursando o terceiro módulo do curso, o módulo de Back-end
+- 👩‍🎓 Estudante de Desenvolvimento Web Full Stack na Trybe,
+cursando o terceiro módulo do curso, o módulo de Ciência da Computação
+- 📚 Conhecimentos adquiridos como estudante Web Full Stack : Javascript, HTML, CSS, ReactJS, Redux, Docker, MySQL, MongoDB, Node.js, TypeScript
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com 
 
