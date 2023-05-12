@@ -35,7 +35,7 @@ cursando o último módulo do curso, o módulo de Ciência da Computação
   
   ##
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ignacio-fabianamaria&bg_color=103142&color=ea83ec&line=a04b90&point=3bb0bf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ignacio-fabianamaria&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
