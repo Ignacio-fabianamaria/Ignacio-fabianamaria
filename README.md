@@ -43,6 +43,13 @@ cursando o último módulo do curso, o módulo de Ciência da Computação
 
 
 ![Snake animation](https://github.com/Ignacio-fabianamaria/Ignacio-fabianamaria/blob/output/github-contribution-grid-snake.svg)
+  
+<div align="center">
+  
+[![Visitas do Perfil](https://komarev.com/ghpvc/?username=Ignacio-fabianamaria)](https://github.com/Ignacio-fabianamaria)
+  
+  </div>  
+  
 
 
 
