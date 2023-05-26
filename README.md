@@ -16,7 +16,7 @@ cursando o último módulo do curso, o módulo de Ciência da Computação
 <div align="center">
   <a href="https://github.com/Ignacio-fabianamaria">   
   <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ignacio-fabianamaria&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-fabianamaria&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-fabianamaria&layout=compact&langs_count=8&theme=highcontrast"/>
 </div>
 
 ##
@@ -35,12 +35,9 @@ cursando o último módulo do curso, o módulo de Ciência da Computação
   
   ##
     
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ignacio-fabianamaria&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ignacio-fabianamaria&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ##
-
-
 
 ![Snake animation](https://github.com/Ignacio-fabianamaria/Ignacio-fabianamaria/blob/output/github-contribution-grid-snake.svg)
   
