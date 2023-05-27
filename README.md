@@ -15,8 +15,8 @@ cursando o último módulo do curso, o módulo de Ciência da Computação
 
 <div align="center">
   <a href="https://github.com/Ignacio-fabianamaria">   
-  <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ignacio-fabianamaria&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-fabianamaria&layout=compact&langs_count=10&theme=highcontrast"/>
+  <img height="190em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ignacio-fabianamaria&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-fabianamaria&layout=compact&langs_count=10&theme=highcontrast"/>
 </div>
 
 ##
