@@ -9,6 +9,8 @@
 - 👩‍🎓 Atualmente participando do Bootcamp Santander Dio - trilha de Fullstack Java + Angular
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com
+
+  ##
   
 <div align="center">
   
