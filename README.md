@@ -6,7 +6,8 @@
 
 - 🌱 Atualmente em transição de carreira para área de tecnologia.
 - 👩‍💻 Desenvolvedora Web Full Stack | JavaScript | React | MySQL | Node.js | TypeScript
-- 👩‍🎓 Atualmente participando do Bootcamp Santander Dio - trilha de Fullstack Java + Angular
+- 👩‍🎓 Atualmente participando do Bootcamp Santander DIO - trilha de Fullstack Java + Angular
+- 👩‍🎓 Atualmente cursando Analista Cloud Foundations na HackOne
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com
 
