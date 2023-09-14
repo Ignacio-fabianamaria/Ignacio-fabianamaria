@@ -40,6 +40,7 @@
   <img align="center" alt="Faby-Mysql" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Faby-nodejs" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="Faby-typescript" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="Faby-Angular" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
 </div>
   
   ##
