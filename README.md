@@ -4,9 +4,8 @@
 
 ##
 
-- 🌱 Atualmente em transição de carreira para área de tecnologia.
 - 👩‍💻 Desenvolvedora Web Full Stack | JavaScript | React | MySQL | Node.js | TypeScript
-- 👩‍🎓 Atualmente cursando Analista Cloud Foundations na HackOne
+- 💼 Atualmente trabalhando como Desenvolvedora de Software Front-end na JOLIFOX TECNOLOGIA
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com
 
