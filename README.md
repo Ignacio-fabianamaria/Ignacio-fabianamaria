@@ -5,7 +5,7 @@
 ##
 
 - 👩‍💻 Desenvolvedora Web Full Stack | JavaScript | React | MySQL | Node.js | TypeScript
-- 💼 Atualmente trabalhando como Desenvolvedora de Software Front-end na JOLIFOX TECNOLOGIA
+- 🌱 Participando do Bootcamp Back-End Python & Django da WoMakersCode, em parceria com o iFood, Potência Tech e Microsoft
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com
 
