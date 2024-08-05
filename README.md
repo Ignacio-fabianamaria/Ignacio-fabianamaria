@@ -4,7 +4,8 @@
 
 ##
 
-- 👩‍💻 Desenvolvedora Web Full Stack | JavaScript | React | MySQL | Node.js | TypeScript
+- 👩‍💻 Desenvolvedora Web Full Stack | JavaScript | React | TypeScript | MySQL | Node.js | Python
+- 📚 Cursando Pós-graduação em Desenvolvimento em Aplicações Web
 - 🌱 Participando do Bootcamp Back-End Python & Django da WoMakersCode, em parceria com o iFood, Potência Tech e Microsoft
 - 😊 Pronomes: Ela/Dela
 - 📫 contate-me no e-mail : faby.tbe@gmail.com
@@ -29,16 +30,17 @@
 ##
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Faby-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Faby-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Faby-Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="Faby-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Faby-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Faby-docker" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-  <img align="center" alt="Faby-Mysql" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-  <img align="center" alt="Faby-nodejs" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="Faby-typescript" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <img align="center" alt="Faby-Angular" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+  <img align="center" alt="JavaScript" title="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" title="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" title="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="HTML5" title="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" title="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Docker" title="Docker" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="MySQL" title="MySQL" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Node.js" title="Node.js" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <img align="center" alt="Angular" title="Angular" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+  <img align="center" alt="Python" title="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
