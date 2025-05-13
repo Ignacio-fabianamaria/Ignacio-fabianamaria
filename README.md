@@ -4,11 +4,14 @@
 
 ##
 
-- 👩‍💻 Desenvolvedora Web Full Stack | JavaScript | React | TypeScript | MySQL | Node.js | Python
-- 📚 Cursando Pós-graduação em Desenvolvimento em Aplicações Web
-- 🌱 Participando do Bootcamp Back-End Python & Django da WoMakersCode, em parceria com o iFood, Potência Tech e Microsoft
-- 😊 Pronomes: Ela/Dela
-- 📫 contate-me no e-mail : faby.tbe@gmail.com
+## Sobre Mim
+
+- 👩‍💻 **Desenvolvedora Web Full Stack** | JavaScript | React | TypeScript | MySQL | Node.js | Python | Angular
+- 🎓 **Cursando Pós-graduação** em Desenvolvimento em Aplicações Web  
+- 💼 **Atualmente trabalhando** como Técnica Bancária em TI na Caixa Econômica Federal  
+- 😊 **Pronomes:** Ela/Dela  
+- 📫 **Contato:** faby.tbe@gmail.com  
+
 
   ##
   
